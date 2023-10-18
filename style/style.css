@@ -1,0 +1,52 @@
+.container{
+     width: 780px;
+     height: 1000px;
+     background: gree;
+}
+.leftSide{
+    margin-right: 250px;
+}
+.rightSide{
+    margin-left: 600px;
+    margin-top: -110px;
+}
+.summery{
+    margin-right: 300px;
+    margin-top: -215px;
+}
+.colums{
+    columns: 2;
+	text-align: center;
+}
+.skills{
+	margin-right: 300px;
+    margin-top: -20px;
+}
+.educ{
+	margin-right: 300px;
+    margin-top: -20px;
+}
+.work{
+	margin-right: 300px;
+    margin-top: -20px;
+}
+.hobby{
+	margin-right: 300px;
+    margin-top: -20px;
+}
+hr{
+	width: 595px;
+	margin-right: 400px;
+}					
+h1, h2, h3{
+	text-align: center;
+	line-height : 1.5;
+	letter-spacing : 1px;
+	font-family: Arial;
+}
+tt{
+	text-align: justify;
+	line-height : 1.5;
+	letter-spacing : 1px;
+	font-family: Arial;
+}
